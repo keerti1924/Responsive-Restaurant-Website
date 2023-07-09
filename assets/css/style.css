@@ -718,7 +718,7 @@ p {
     }
 
     .testimonial-section .carousel-item .carousel-caption p {
-    font-size: 10px;
+    font-size: 15px;
     line-height:1;
     }
 
@@ -746,4 +746,10 @@ p {
     .testimonial-section .carousel-item {
         padding: 13rem 3.125rem;
     }
+
+    .testimonial-section .carousel-item .carousel-caption p {
+    font-size: 10px;
+    line-height:1;
+    }
+    
 }
