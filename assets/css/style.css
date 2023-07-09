@@ -717,6 +717,11 @@ p {
         padding: 11rem 3.125rem;
     }
 
+    .testimonial-section .carousel-item .carousel-caption p {
+    font-size: 10px;
+    line-height:1;
+    }
+
     .newsletter {
         width: 75%;
     }
